@@ -25,6 +25,7 @@ This is not an adoption leaderboard. The market is early. Entries are tagged hon
 - [Visa Intelligent Commerce](https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.20866.html)
 - [Visa Trusted Agent Protocol](https://developer.visa.com/capabilities/trusted-agent-protocol/overview)
 - [AWS Bedrock AgentCore Payments](https://aws.amazon.com/blogs/machine-learning/agents-that-transact-introducing-amazon-bedrock-agentcore-payments-built-with-coinbase-and-stripe/)
+- [Nano (XNO)](https://nano.org) — feeless, sub-second settlement rail (block-lattice DAG, no miners, no gas). See also [Nano docs](https://docs.nano.org/)
 
 ## Table
 | Logo | Company / Product | Category | What it does | Who it serves | Payment methods | Agent capability | Surface | Why it matters | Links |
