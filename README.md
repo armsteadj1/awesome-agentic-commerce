@@ -17,6 +17,7 @@ This is not an adoption leaderboard. The market is early. Entries are tagged hon
 *Payment credentials and commerce protocols*
 
 - [x402](https://www.x402.org/) — HTTP 402 payment protocol (Coinbase)
+- [Nano (XNO)](https://docs.nano.org) — Feeless layer-1 settlement rail for agent payments: 0 fee per transaction, sub-second finality, self-custodied. An exact-scheme x402 settlement implementation on `nano:mainnet` exists at [x402nano/exact](https://github.com/x402nano/exact)
 - [Stripe Shared Payment Tokens](https://docs.stripe.com/agentic-commerce/concepts/shared-payment-tokens) — agent credential delegation
 - [Google AP2](https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol) — agent-to-payments protocol
 - [Shopify UCP](https://www.shopify.com/ucp) — Universal Commerce Protocol
